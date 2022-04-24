@@ -1,4 +1,5 @@
 @import '../variables';
+@import './mixins';
 @import '../reset';
 @import '../general';
 
@@ -7,6 +8,6 @@
 @import './sales';
 @import './products';
 @import './information';
-@import './subcsribe;
+@import './blocks/subcsribe;
 @import './blocks/infoblock;
 @import './footnote;

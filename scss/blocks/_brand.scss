@@ -17,16 +17,12 @@
 }
 
 .brand__title {
-    font-size: 48px;
-    font-weight: 900;
-    line-height: 58px;
+    @include font(48px, 50px, 900);
     text-transform: uppercase;
 }
 
 .brand__title-lower {
-    font-size: 32px;
-    font-weight: 700;
-    line-height: 38px;
+    @include font(32px, 38px, 700);
     display: block;
 }
 

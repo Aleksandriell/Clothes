@@ -5,6 +5,7 @@
 }
 
 .sales__item {
+    @include font ();
     height: 260px;
     width: 360px;
     background-color: $sales-bkg;
@@ -43,5 +44,4 @@
     text-transform: uppercase;
     color: $pink-color;
     font-size: 24px;
-
 }
