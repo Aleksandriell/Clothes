@@ -1,0 +1,74 @@
+.footnote_ {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footnote_info-f {
+    width: 20px;
+    height: 20px;
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a:hover svg {
+    fill: $pink-bkg;
+}
+
+a:hover {
+    background: #FFFFFF;
+}
+
+.footnote_info-instagramm {
+    width: 20px;
+    height: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: $pink-color;
+}
+
+a:hover svg {
+    fill: $pink-bkg;
+}
+
+a:hover {
+    background: #FFFFFF;
+}
+
+.footnote_info-p {
+    width: 20px;
+    height: 20px;
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a:hover svg {
+    fill: $pink-bkg;
+}
+
+a:hover {
+    background: #FFFFFF;
+}
+
+
+.footnote_info-t {
+    width: 20px;
+    height: 20px;
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a:hover svg {
+    fill: $pink-bkg;
+}
+
+a:hover {
+    background: #FFFFFF;
+}

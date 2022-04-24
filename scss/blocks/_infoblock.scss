@@ -1,0 +1,35 @@
+.infoblock__email {
+    background: #E1E1E1;
+    border-radius: 10px;
+    height: 49px;
+    width: 322.5899658203125px;
+    border-radius: 0px;
+}
+
+.infoblock__submit {
+    height: 36px;
+    width: 85px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    background: #E05C6E;
+}
+
+a:hover,
+a:focus {
+    color: #F16D7F;
+}
+
+a:active {
+    color: #FFFFFF;
+}
+
+infoblock__submit:hover,
+infoblock__submit:focus {
+    background: #F16D7F;
+}
+
+infoblock__submit:active {
+    background: #FFFFFF;
+}

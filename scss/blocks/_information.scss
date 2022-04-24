@@ -1,0 +1,49 @@
+.information {
+    background: #222224;
+    padding-top: 95px;
+}
+
+.information__list {
+    display: flex;
+    height: 341px;
+    text-align: center;
+}
+
+.information__list-delivery {
+    margin-top: 103px;
+    margin-bottom: 104px;
+    margin-right: 30px;
+    margin-left: 230px;
+}
+
+.information__list-discount {
+    margin-top: 103px;
+    margin-bottom: 104px;
+
+}
+
+.information__list-quality {
+    margin-top: 103px;
+    margin-bottom: 104px;
+    margin-right: 230px;
+    margin-left: 30px;
+}
+
+.information__img {
+    margin-bottom: 28px;
+}
+
+.information__title {
+    margin-bottom: 16px;
+    color: #FBFBFB;
+    font-weight: 400;
+    font-size: 19.96px;
+    line-height: 24px;
+}
+
+.information__text {
+    font-weight: 300;
+    font-size: 13.972px;
+    color: #FBFBFB;
+    width: 360px;
+}
