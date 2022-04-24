@@ -1,0 +1,44 @@
+.subcsribe {
+    min-height: 448px;
+    background-image: url(../img/subscribe.jpg);
+    background-color: $subcsribe-bkg;
+    background-repeat: no-repeat;
+}
+
+.subcsribe_block {
+    display: flex;
+}
+
+.subcsribe__img {
+    height: 150px;
+    width: 144px;
+    margin-top: 86px;
+    margin-left: 327px;
+    margin-right: 340px;
+    margin-bottom: 40px;
+}
+
+.subcsribe__condimentum-text {
+    line-height: 24px;
+    text-align: center;
+    color: #222224;
+}
+
+.subcsribe__buttom {
+    margin-top: 150px;
+    margin-bottom: 32px;
+}
+
+.subcsribe__buttom-title {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 167.2%;
+    text-align: center;
+    color: #222224;
+}
+
+.subcsribe__buttom-text {
+    text-transform: uppercase;
+    color: #222224;
+}
